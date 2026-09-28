@@ -1,0 +1,1 @@
+total + Integer.Parse(CurrentRow.Item(1).ToString)
